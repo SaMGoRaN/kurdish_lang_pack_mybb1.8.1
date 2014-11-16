@@ -7,6 +7,9 @@ This Language Pack is free. It comes without any warranty to the extent permitte
 You can redistribute it and/or modify it under the terms of the Do What The Ƒuck You Want To Public License.
 Version 1.8.1 , as published by Sam GoRaN.
 
+Demo Version:
+http://goo.gl/SANLua
+
 Download Link...
 
 From MEGA upload
