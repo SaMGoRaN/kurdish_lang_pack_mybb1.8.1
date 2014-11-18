@@ -12,10 +12,7 @@ http://goo.gl/SANLua
 
 Download Link...
 
-From MEGA upload
-http://goo.gl/DK43iV
-or
-Media Fire
-http://goo.gl/fguXqU
+http://community.mybb.com/mods.php?action=view&pid=302
+
 
 ./ enjoy
